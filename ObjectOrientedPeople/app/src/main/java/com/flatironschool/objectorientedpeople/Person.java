@@ -5,5 +5,5 @@ package com.flatironschool.objectorientedpeople;
  */
 public class Person {
 
-    Integer
+
 }
