@@ -32,6 +32,11 @@ public class PersonTests extends InstrumentationTestCase {
     public void testPersonInstantiation() throws Exception {
         assertNotNull(mPerson);
         assertEquals(mPerson.getClass(), Person.class);
+
+        assertTrue(mPerson.getAge() == 27);
+        assertEquals(mPerson.getName(), "Al");
+        assertTrue(mPerson.getHeight() == 72);
+        assertFalse(mPerson.isFemale());
     }
 
 
