@@ -1,7 +1,4 @@
----
-tags: OOP, properties, methods
-language: java
----
+
 
 Android Object-Oriented-People 
 ===============================
