@@ -105,3 +105,5 @@ ex.
 
 Feel free to play with your new class outside of the tests in the PeopleActivity.java file. 
 
+
+<a href='https://learn.co/lessons/Android-ObjectOrientedPeople' data-visibility='hidden'>View this lesson on Learn.co</a>
